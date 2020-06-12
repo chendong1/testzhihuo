@@ -1,0 +1,1140 @@
+test_getCurrentUserArea (Data_source.test_Data_platform.Data_platform) ... FAIL
+test_get_current_user_school (Data_source.test_Data_platform.Data_platform) ... FAIL
+test_get_log_exam_batch_detail (Data_source.test_Data_platform.Data_platform) ... FAIL
+test_get_student_report_detail (Data_source.test_Data_platform.Data_platform) ... FAIL
+test_get_teacher_print_detail (Data_source.test_Data_platform.Data_platform) ... FAIL
+test_get_teacher_report_detail (Data_source.test_Data_platform.Data_platform) ... FAIL
+test_url_getBasic (Data_source.test_Data_platform.Data_platform) ... ok
+test_url_getInfo (Data_source.test_Data_platform.Data_platform) ... ok
+test_url_getTrend (Data_source.test_Data_platform.Data_platform) ... ok
+test_parent_detail (mark.test_fencengfufei.TestFencengfufei) ... ok
+test_parent_overview (mark.test_fencengfufei.TestFencengfufei) ... ok
+test_teacher_detail (mark.test_fencengfufei.TestFencengfufei) ... ok
+test_teacher_overview (mark.test_fencengfufei.TestFencengfufei) ... ok
+test_paper_result (mark.test_scan_backup.TestScanBackup) ... ok
+test_save_per_page (mark.test_scan_backup.TestScanBackup) ... ok
+test_find_effective_lst (oms_system.test_package.Testpackage) ... ok
+test_findpackage (oms_system.test_package.Testpackage) ... ok
+test_get_areas (question_bank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_get_question_by_uuid (question_bank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_listSimilarQuestion (question_bank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_math_physics_chemistry_ques (question_bank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_get_insight_book_book_name (question_bank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_insight_book_by_id (question_bank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_insight_book_edition (question_bank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_insight_third_subject (question_bank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_point_by_subject (question_bank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_point_no_deleted_by_subject (question_bank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_question_type_by_subject (question_bank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... FAIL
+test_get_thematic_point (question_bank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_ques_list (question_bank.test_Grade_knowledge_points.Testques_list) ... ok
+test_question_type (question_bank.test_Grade_knowledge_points.Testques_list) ... FAIL
+test_getSpecialTopic (question_bank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_get_insight_book (question_bank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_get_unified_new (question_bank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_previewByTopic (question_bank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_preview_v2 (question_bank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_getOneQuestionById (question_bank.test_New_Written_Expression.TestNew_Written_Expression) ... ok
+test_insertQuestion (question_bank.test_New_Written_Expression.TestNew_Written_Expression) ... ok
+test_updateQuestion (question_bank.test_New_Written_Expression.TestNew_Written_Expression) ... ok
+test_insight_book (question_bank.test_Search_questions.Search_question) ... ok
+test_insight_book_id (question_bank.test_Search_questions.Search_question) ... ok
+test_math_physics_chemistry_ques (question_bank.test_Search_questions.Search_question) ... ok
+test_ques_tag (question_bank.test_Search_questions.Search_question) ... FAIL
+test_question_type_subject (question_bank.test_Search_questions.Search_question) ... FAIL
+test_search_for_bank (question_bank.test_Search_questions.Search_question) ... FAIL
+test_search_uuid_questions (question_bank.test_Search_questions.Search_question) ... FAIL
+test_disSimilarQuestion (question_bank.test_Similar_Question_Controller.TestSimilar_Question_Controller) ... ok
+test_listSimilarQuestion (question_bank.test_Similar_Question_Controller.TestSimilar_Question_Controller) ... ok
+test_get_all_projects (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_book (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_book_by_id (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_question_type_type_by_subject (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_question_type_type_pre_by_subject (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_third_subject (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_methods_by_point_ids (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_point_by_book_type (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_projects_by_point_ids (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_question_type_by_subject (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_visible_book (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_insertQuestion (question_bank.test_subject_new_math.TestSubject_new_math) ... FAIL
+test_listTopicBySubjectEn (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_submit_question (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_cardInfo (small_program.test_login.TestLogin) ... ok
+test_is_new (small_program.test_login.TestLogin) ... FAIL
+
+======================================================================
+FAIL: test_getCurrentUserArea (Data_source.test_Data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\Data_source\test_Data_platform.py", line 128, in test_getCurrentUserArea
+    self.assertTrue('河南省' in r.text, '首页接口失败')#获取province字段
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_current_user_school (Data_source.test_Data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\Data_source\test_Data_platform.py", line 154, in test_get_current_user_school
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回data中是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_log_exam_batch_detail (Data_source.test_Data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\Data_source\test_Data_platform.py", line 182, in test_get_log_exam_batch_detail
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回数据中是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_student_report_detail (Data_source.test_Data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\Data_source\test_Data_platform.py", line 268, in test_get_student_report_detail
+    self.assertTrue('登封市区第三初级中学' in r.text, '首页接口失败')#验证返回school_name是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_teacher_print_detail (Data_source.test_Data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\Data_source\test_Data_platform.py", line 210, in test_get_teacher_print_detail
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回数据中是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_teacher_report_detail (Data_source.test_Data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\Data_source\test_Data_platform.py", line 238, in test_get_teacher_report_detail
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回school_name是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_question_type_by_subject (question_bank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\question_bank\test_Cleaning_Knowledge_Points.py", line 170, in test_get_question_type_by_subject
+    self.assertTrue('古诗文默写' in r.text)  # 获取一级题型为古诗文默写
+AssertionError: False is not true
+
+======================================================================
+FAIL: test_question_type (question_bank.test_Grade_knowledge_points.Testques_list)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\question_bank\test_Grade_knowledge_points.py", line 69, in test_question_type
+    self.assertEqual(result['code'],0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_ques_tag (question_bank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\question_bank\test_Search_questions.py", line 242, in test_ques_tag
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_question_type_subject (question_bank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\question_bank\test_Search_questions.py", line 93, in test_question_type_subject
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_search_for_bank (question_bank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\question_bank\test_Search_questions.py", line 205, in test_search_for_bank
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_search_uuid_questions (question_bank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\question_bank\test_Search_questions.py", line 166, in test_search_uuid_questions
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_insertQuestion (question_bank.test_subject_new_math.TestSubject_new_math)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\question_bank\test_subject_new_math.py", line 361, in test_insertQuestion
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_is_new (small_program.test_login.TestLogin)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\small_program\test_login.py", line 61, in test_is_new
+    self.assertTrue('31410007232205156' in r.text,'首页接口失败')#验证返回结果中的class_id是否在文本中
+AssertionError: False is not true : 首页接口失败
+
+----------------------------------------------------------------------
+Ran 64 tests in 20.422s
+
+FAILED (failures=14)
+test_getCurrentUserArea (Data_source.test_Data_platform.Data_platform) ... FAIL
+test_get_current_user_school (Data_source.test_Data_platform.Data_platform) ... FAIL
+test_get_log_exam_batch_detail (Data_source.test_Data_platform.Data_platform) ... FAIL
+test_get_student_report_detail (Data_source.test_Data_platform.Data_platform) ... FAIL
+test_get_teacher_print_detail (Data_source.test_Data_platform.Data_platform) ... FAIL
+test_get_teacher_report_detail (Data_source.test_Data_platform.Data_platform) ... FAIL
+test_url_getBasic (Data_source.test_Data_platform.Data_platform) ... ok
+test_url_getInfo (Data_source.test_Data_platform.Data_platform) ... ok
+test_url_getTrend (Data_source.test_Data_platform.Data_platform) ... ok
+test_parent_detail (mark.test_fencengfufei.TestFencengfufei) ... ok
+test_parent_overview (mark.test_fencengfufei.TestFencengfufei) ... ok
+test_teacher_detail (mark.test_fencengfufei.TestFencengfufei) ... ok
+test_teacher_overview (mark.test_fencengfufei.TestFencengfufei) ... ok
+test_paper_result (mark.test_scan_backup.TestScanBackup) ... ok
+test_save_per_page (mark.test_scan_backup.TestScanBackup) ... ok
+test_find_effective_lst (oms_system.test_package.Testpackage) ... ok
+test_findpackage (oms_system.test_package.Testpackage) ... ok
+test_get_areas (question_bank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_get_question_by_uuid (question_bank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_listSimilarQuestion (question_bank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_math_physics_chemistry_ques (question_bank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_get_insight_book_book_name (question_bank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_insight_book_by_id (question_bank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_insight_book_edition (question_bank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_insight_third_subject (question_bank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_point_by_subject (question_bank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_point_no_deleted_by_subject (question_bank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_question_type_by_subject (question_bank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... FAIL
+test_get_thematic_point (question_bank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_ques_list (question_bank.test_Grade_knowledge_points.Testques_list) ... ok
+test_question_type (question_bank.test_Grade_knowledge_points.Testques_list) ... FAIL
+test_getSpecialTopic (question_bank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_get_insight_book (question_bank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_get_unified_new (question_bank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_previewByTopic (question_bank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_preview_v2 (question_bank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_getOneQuestionById (question_bank.test_New_Written_Expression.TestNew_Written_Expression) ... ok
+test_insertQuestion (question_bank.test_New_Written_Expression.TestNew_Written_Expression) ... ok
+test_updateQuestion (question_bank.test_New_Written_Expression.TestNew_Written_Expression) ... ok
+test_insight_book (question_bank.test_Search_questions.Search_question) ... ok
+test_insight_book_id (question_bank.test_Search_questions.Search_question) ... ok
+test_math_physics_chemistry_ques (question_bank.test_Search_questions.Search_question) ... ok
+test_ques_tag (question_bank.test_Search_questions.Search_question) ... FAIL
+test_question_type_subject (question_bank.test_Search_questions.Search_question) ... FAIL
+test_search_for_bank (question_bank.test_Search_questions.Search_question) ... FAIL
+test_search_uuid_questions (question_bank.test_Search_questions.Search_question) ... FAIL
+test_disSimilarQuestion (question_bank.test_Similar_Question_Controller.TestSimilar_Question_Controller) ... ok
+test_listSimilarQuestion (question_bank.test_Similar_Question_Controller.TestSimilar_Question_Controller) ... ok
+test_get_all_projects (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_book (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_book_by_id (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_question_type_type_by_subject (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_question_type_type_pre_by_subject (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_third_subject (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_methods_by_point_ids (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_point_by_book_type (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_projects_by_point_ids (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_question_type_by_subject (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_visible_book (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_insertQuestion (question_bank.test_subject_new_math.TestSubject_new_math) ... FAIL
+test_listTopicBySubjectEn (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_submit_question (question_bank.test_subject_new_math.TestSubject_new_math) ... ok
+test_cardInfo (small_program.test_login.TestLogin) ... ok
+test_is_new (small_program.test_login.TestLogin) ... FAIL
+
+======================================================================
+FAIL: test_getCurrentUserArea (Data_source.test_Data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\Data_source\test_Data_platform.py", line 128, in test_getCurrentUserArea
+    self.assertTrue('河南省' in r.text, '首页接口失败')#获取province字段
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_current_user_school (Data_source.test_Data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\Data_source\test_Data_platform.py", line 154, in test_get_current_user_school
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回data中是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_log_exam_batch_detail (Data_source.test_Data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\Data_source\test_Data_platform.py", line 182, in test_get_log_exam_batch_detail
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回数据中是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_student_report_detail (Data_source.test_Data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\Data_source\test_Data_platform.py", line 268, in test_get_student_report_detail
+    self.assertTrue('登封市区第三初级中学' in r.text, '首页接口失败')#验证返回school_name是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_teacher_print_detail (Data_source.test_Data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\Data_source\test_Data_platform.py", line 210, in test_get_teacher_print_detail
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回数据中是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_teacher_report_detail (Data_source.test_Data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\Data_source\test_Data_platform.py", line 238, in test_get_teacher_report_detail
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回school_name是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_question_type_by_subject (question_bank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\question_bank\test_Cleaning_Knowledge_Points.py", line 170, in test_get_question_type_by_subject
+    self.assertTrue('古诗文默写' in r.text)  # 获取一级题型为古诗文默写
+AssertionError: False is not true
+
+======================================================================
+FAIL: test_question_type (question_bank.test_Grade_knowledge_points.Testques_list)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\question_bank\test_Grade_knowledge_points.py", line 69, in test_question_type
+    self.assertEqual(result['code'],0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_ques_tag (question_bank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\question_bank\test_Search_questions.py", line 242, in test_ques_tag
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_question_type_subject (question_bank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\question_bank\test_Search_questions.py", line 93, in test_question_type_subject
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_search_for_bank (question_bank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\question_bank\test_Search_questions.py", line 205, in test_search_for_bank
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_search_uuid_questions (question_bank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\question_bank\test_Search_questions.py", line 166, in test_search_uuid_questions
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_insertQuestion (question_bank.test_subject_new_math.TestSubject_new_math)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\question_bank\test_subject_new_math.py", line 361, in test_insertQuestion
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_is_new (small_program.test_login.TestLogin)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\small_program\test_login.py", line 61, in test_is_new
+    self.assertTrue('31410007232205156' in r.text,'首页接口失败')#验证返回结果中的class_id是否在文本中
+AssertionError: False is not true : 首页接口失败
+
+----------------------------------------------------------------------
+Ran 64 tests in 19.278s
+
+FAILED (failures=14)
+test_getCurrentUserArea (DataSource.test_data_platform.Data_platform) ... FAIL
+test_get_current_user_school (DataSource.test_data_platform.Data_platform) ... FAIL
+test_get_log_exam_batch_detail (DataSource.test_data_platform.Data_platform) ... FAIL
+test_get_student_report_detail (DataSource.test_data_platform.Data_platform) ... FAIL
+test_get_teacher_print_detail (DataSource.test_data_platform.Data_platform) ... FAIL
+test_get_teacher_report_detail (DataSource.test_data_platform.Data_platform) ... FAIL
+test_url_getBasic (DataSource.test_data_platform.Data_platform) ... ok
+test_url_getInfo (DataSource.test_data_platform.Data_platform) ... ok
+test_url_getTrend (DataSource.test_data_platform.Data_platform) ... ok
+test_parent_detail (Mark.test_fencengfufei.TestFencengfufei) ... ok
+test_parent_overview (Mark.test_fencengfufei.TestFencengfufei) ... ok
+test_teacher_detail (Mark.test_fencengfufei.TestFencengfufei) ... ok
+test_teacher_overview (Mark.test_fencengfufei.TestFencengfufei) ... ok
+Mark.test_scan_backup (unittest.loader._FailedTest) ... ERROR
+test_find_effective_lst (OmsSystem.test_package.Testpackage) ... ok
+test_findpackage (OmsSystem.test_package.Testpackage) ... ok
+test_get_areas (QuestionBank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_get_question_by_uuid (QuestionBank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_listSimilarQuestion (QuestionBank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_math_physics_chemistry_ques (QuestionBank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_get_insight_book_book_name (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_insight_book_by_id (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_insight_book_edition (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_insight_third_subject (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_point_by_subject (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_point_no_deleted_by_subject (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_question_type_by_subject (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... FAIL
+test_get_thematic_point (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_ques_list (QuestionBank.test_Grade_knowledge_points.Testques_list) ... ok
+test_question_type (QuestionBank.test_Grade_knowledge_points.Testques_list) ... FAIL
+test_getSpecialTopic (QuestionBank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_get_insight_book (QuestionBank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_get_unified_new (QuestionBank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_previewByTopic (QuestionBank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_preview_v2 (QuestionBank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_getOneQuestionById (QuestionBank.test_New_Written_Expression.TestNew_Written_Expression) ... ok
+test_insertQuestion (QuestionBank.test_New_Written_Expression.TestNew_Written_Expression) ... ok
+test_updateQuestion (QuestionBank.test_New_Written_Expression.TestNew_Written_Expression) ... ok
+test_insight_book (QuestionBank.test_Search_questions.Search_question) ... ok
+test_insight_book_id (QuestionBank.test_Search_questions.Search_question) ... ok
+test_math_physics_chemistry_ques (QuestionBank.test_Search_questions.Search_question) ... ok
+test_ques_tag (QuestionBank.test_Search_questions.Search_question) ... FAIL
+test_question_type_subject (QuestionBank.test_Search_questions.Search_question) ... FAIL
+test_search_for_bank (QuestionBank.test_Search_questions.Search_question) ... FAIL
+test_search_uuid_questions (QuestionBank.test_Search_questions.Search_question) ... FAIL
+test_disSimilarQuestion (QuestionBank.test_Similar_Question_Controller.TestSimilar_Question_Controller) ... ok
+test_listSimilarQuestion (QuestionBank.test_Similar_Question_Controller.TestSimilar_Question_Controller) ... ok
+test_get_all_projects (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_book (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_book_by_id (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_question_type_type_by_subject (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_question_type_type_pre_by_subject (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_third_subject (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_methods_by_point_ids (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_point_by_book_type (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_projects_by_point_ids (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_question_type_by_subject (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_visible_book (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_insertQuestion (QuestionBank.test_subject_new_math.TestSubject_new_math) ... FAIL
+test_listTopicBySubjectEn (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_submit_question (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_cardInfo (SmallProgram.test_login.TestLogin) ... ok
+test_is_new (SmallProgram.test_login.TestLogin) ... FAIL
+
+======================================================================
+ERROR: Mark.test_scan_backup (unittest.loader._FailedTest)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: Mark.test_scan_backup
+Traceback (most recent call last):
+  File "C:\Python38\lib\unittest\loader.py", line 436, in _find_test_path
+    module = self._get_module_from_name(name)
+  File "C:\Python38\lib\unittest\loader.py", line 377, in _get_module_from_name
+    __import__(name)
+  File "C:\ZhihuoTestAPI\test_case\Mark\test_scan_backup.py", line 3, in <module>
+    import pymysql
+ModuleNotFoundError: No module named 'pymysql'
+
+
+======================================================================
+FAIL: test_getCurrentUserArea (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 128, in test_getCurrentUserArea
+    self.assertTrue('河南省' in r.text, '首页接口失败')#获取province字段
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_current_user_school (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 154, in test_get_current_user_school
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回data中是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_log_exam_batch_detail (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 182, in test_get_log_exam_batch_detail
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回数据中是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_student_report_detail (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 268, in test_get_student_report_detail
+    self.assertTrue('登封市区第三初级中学' in r.text, '首页接口失败')#
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_teacher_print_detail (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 210, in test_get_teacher_print_detail
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回数据中是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_teacher_report_detail (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 238, in test_get_teacher_report_detail
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回school_name是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_question_type_by_subject (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Cleaning_Knowledge_Points.py", line 170, in test_get_question_type_by_subject
+    self.assertTrue('古诗文默写' in r.text)  # 获取一级题型为古诗文默写
+AssertionError: False is not true
+
+======================================================================
+FAIL: test_question_type (QuestionBank.test_Grade_knowledge_points.Testques_list)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Grade_knowledge_points.py", line 69, in test_question_type
+    self.assertEqual(result['code'],0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_ques_tag (QuestionBank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Search_questions.py", line 242, in test_ques_tag
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_question_type_subject (QuestionBank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Search_questions.py", line 93, in test_question_type_subject
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_search_for_bank (QuestionBank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Search_questions.py", line 205, in test_search_for_bank
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_search_uuid_questions (QuestionBank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Search_questions.py", line 166, in test_search_uuid_questions
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_insertQuestion (QuestionBank.test_subject_new_math.TestSubject_new_math)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_subject_new_math.py", line 361, in test_insertQuestion
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_is_new (SmallProgram.test_login.TestLogin)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\SmallProgram\test_login.py", line 61, in test_is_new
+    self.assertTrue('31410007232205156' in r.text,'首页接口失败')#验证返回结果中的class_id是否在文本中
+AssertionError: False is not true : 首页接口失败
+
+----------------------------------------------------------------------
+Ran 63 tests in 21.351s
+
+FAILED (failures=14, errors=1)
+test_getCurrentUserArea (DataSource.test_data_platform.Data_platform) ... FAIL
+test_get_current_user_school (DataSource.test_data_platform.Data_platform) ... FAIL
+test_get_log_exam_batch_detail (DataSource.test_data_platform.Data_platform) ... FAIL
+test_get_student_report_detail (DataSource.test_data_platform.Data_platform) ... FAIL
+test_get_teacher_print_detail (DataSource.test_data_platform.Data_platform) ... FAIL
+test_get_teacher_report_detail (DataSource.test_data_platform.Data_platform) ... FAIL
+test_url_getBasic (DataSource.test_data_platform.Data_platform) ... ok
+test_url_getInfo (DataSource.test_data_platform.Data_platform) ... ok
+test_url_getTrend (DataSource.test_data_platform.Data_platform) ... ok
+test_get_arear (DataSource.test_question_data.TestQesutionData) ... ok
+test_get_search_data (DataSource.test_question_data.TestQesutionData) ... ok
+test_search_condition (DataSource.test_question_data.TestQesutionData) ... ok
+test_parent_detail (Mark.test_fencengfufei.TestFencengfufei) ... ok
+test_parent_overview (Mark.test_fencengfufei.TestFencengfufei) ... ok
+test_teacher_detail (Mark.test_fencengfufei.TestFencengfufei) ... ok
+test_teacher_overview (Mark.test_fencengfufei.TestFencengfufei) ... ok
+Mark.test_scan_backup (unittest.loader._FailedTest) ... ERROR
+Mark.test_shoujipigai (unittest.loader._FailedTest) ... ERROR
+test_find_effective_lst (OmsSystem.test_package.Testpackage) ... ok
+test_findpackage (OmsSystem.test_package.Testpackage) ... ok
+test_get_areas (QuestionBank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_get_question_by_uuid (QuestionBank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_listSimilarQuestion (QuestionBank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_math_physics_chemistry_ques (QuestionBank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_get_insight_book_book_name (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_insight_book_by_id (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_insight_book_edition (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_insight_third_subject (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_point_by_subject (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_point_no_deleted_by_subject (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_question_type_by_subject (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... FAIL
+test_get_thematic_point (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_ques_list (QuestionBank.test_Grade_knowledge_points.Testques_list) ... ok
+test_question_type (QuestionBank.test_Grade_knowledge_points.Testques_list) ... FAIL
+test_getSpecialTopic (QuestionBank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_get_insight_book (QuestionBank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_get_unified_new (QuestionBank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_previewByTopic (QuestionBank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_preview_v2 (QuestionBank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_getOneQuestionById (QuestionBank.test_New_Written_Expression.TestNew_Written_Expression) ... ok
+test_insertQuestion (QuestionBank.test_New_Written_Expression.TestNew_Written_Expression) ... ok
+test_updateQuestion (QuestionBank.test_New_Written_Expression.TestNew_Written_Expression) ... ok
+test_insight_book (QuestionBank.test_Search_questions.Search_question) ... ok
+test_insight_book_id (QuestionBank.test_Search_questions.Search_question) ... ok
+test_math_physics_chemistry_ques (QuestionBank.test_Search_questions.Search_question) ... ok
+test_ques_tag (QuestionBank.test_Search_questions.Search_question) ... FAIL
+test_question_type_subject (QuestionBank.test_Search_questions.Search_question) ... FAIL
+test_search_for_bank (QuestionBank.test_Search_questions.Search_question) ... FAIL
+test_search_uuid_questions (QuestionBank.test_Search_questions.Search_question) ... FAIL
+test_disSimilarQuestion (QuestionBank.test_Similar_Question_Controller.TestSimilar_Question_Controller) ... ok
+test_listSimilarQuestion (QuestionBank.test_Similar_Question_Controller.TestSimilar_Question_Controller) ... ok
+test_get_all_projects (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_book (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_book_by_id (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_question_type_type_by_subject (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_question_type_type_pre_by_subject (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_third_subject (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_methods_by_point_ids (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_point_by_book_type (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_projects_by_point_ids (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_question_type_by_subject (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_visible_book (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_insertQuestion (QuestionBank.test_subject_new_math.TestSubject_new_math) ... FAIL
+test_listTopicBySubjectEn (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_submit_question (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_cardInfo (SmallProgram.test_login.TestLogin) ... ok
+test_is_new (SmallProgram.test_login.TestLogin) ... FAIL
+
+======================================================================
+ERROR: Mark.test_scan_backup (unittest.loader._FailedTest)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: Mark.test_scan_backup
+Traceback (most recent call last):
+  File "C:\Python38\lib\unittest\loader.py", line 436, in _find_test_path
+    module = self._get_module_from_name(name)
+  File "C:\Python38\lib\unittest\loader.py", line 377, in _get_module_from_name
+    __import__(name)
+  File "C:\ZhihuoTestAPI\test_case\Mark\test_scan_backup.py", line 3, in <module>
+    import pymysql
+ModuleNotFoundError: No module named 'pymysql'
+
+
+======================================================================
+ERROR: Mark.test_shoujipigai (unittest.loader._FailedTest)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: Mark.test_shoujipigai
+Traceback (most recent call last):
+  File "C:\Python38\lib\unittest\loader.py", line 436, in _find_test_path
+    module = self._get_module_from_name(name)
+  File "C:\Python38\lib\unittest\loader.py", line 377, in _get_module_from_name
+    __import__(name)
+  File "C:\ZhihuoTestAPI\test_case\Mark\test_shoujipigai.py", line 3, in <module>
+    import pymysql
+ModuleNotFoundError: No module named 'pymysql'
+
+
+======================================================================
+FAIL: test_getCurrentUserArea (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 128, in test_getCurrentUserArea
+    self.assertTrue('河南省' in r.text, '首页接口失败')#获取province字段
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_current_user_school (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 154, in test_get_current_user_school
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回data中是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_log_exam_batch_detail (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 182, in test_get_log_exam_batch_detail
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回数据中是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_student_report_detail (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 268, in test_get_student_report_detail
+    self.assertTrue('登封市区第三初级中学' in r.text, '首页接口失败')#
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_teacher_print_detail (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 210, in test_get_teacher_print_detail
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回数据中是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_teacher_report_detail (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 238, in test_get_teacher_report_detail
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回school_name是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_question_type_by_subject (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Cleaning_Knowledge_Points.py", line 170, in test_get_question_type_by_subject
+    self.assertTrue('古诗文默写' in r.text)  # 获取一级题型为古诗文默写
+AssertionError: False is not true
+
+======================================================================
+FAIL: test_question_type (QuestionBank.test_Grade_knowledge_points.Testques_list)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Grade_knowledge_points.py", line 69, in test_question_type
+    self.assertEqual(result['code'],0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_ques_tag (QuestionBank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Search_questions.py", line 242, in test_ques_tag
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_question_type_subject (QuestionBank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Search_questions.py", line 93, in test_question_type_subject
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_search_for_bank (QuestionBank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Search_questions.py", line 205, in test_search_for_bank
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_search_uuid_questions (QuestionBank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Search_questions.py", line 166, in test_search_uuid_questions
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_insertQuestion (QuestionBank.test_subject_new_math.TestSubject_new_math)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_subject_new_math.py", line 361, in test_insertQuestion
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_is_new (SmallProgram.test_login.TestLogin)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\SmallProgram\test_login.py", line 61, in test_is_new
+    self.assertTrue('31410007232205156' in r.text,'首页接口失败')#验证返回结果中的class_id是否在文本中
+AssertionError: False is not true : 首页接口失败
+
+----------------------------------------------------------------------
+Ran 67 tests in 54.420s
+
+FAILED (failures=14, errors=2)
+test_getCurrentUserArea (DataSource.test_data_platform.Data_platform) ... FAIL
+test_get_current_user_school (DataSource.test_data_platform.Data_platform) ... FAIL
+test_get_log_exam_batch_detail (DataSource.test_data_platform.Data_platform) ... FAIL
+test_get_student_report_detail (DataSource.test_data_platform.Data_platform) ... FAIL
+test_get_teacher_print_detail (DataSource.test_data_platform.Data_platform) ... FAIL
+test_get_teacher_report_detail (DataSource.test_data_platform.Data_platform) ... FAIL
+test_url_getBasic (DataSource.test_data_platform.Data_platform) ... ok
+test_url_getInfo (DataSource.test_data_platform.Data_platform) ... ok
+test_url_getTrend (DataSource.test_data_platform.Data_platform) ... ok
+test_get_arear (DataSource.test_question_data.TestQesutionData) ... ok
+test_get_search_data (DataSource.test_question_data.TestQesutionData) ... ok
+test_search_condition (DataSource.test_question_data.TestQesutionData) ... ok
+test_parent_detail (Mark.test_fencengfufei.TestFencengfufei) ... ok
+test_parent_overview (Mark.test_fencengfufei.TestFencengfufei) ... ok
+test_teacher_detail (Mark.test_fencengfufei.TestFencengfufei) ... ok
+test_teacher_overview (Mark.test_fencengfufei.TestFencengfufei) ... ok
+test_paper_result (Mark.test_scan_backup.TestScanBackup) ... ok
+test_save_per_page (Mark.test_scan_backup.TestScanBackup) ... ok
+test_user_get_list (Mark.test_shoujipigai.TestShouJiPiGai) ... ok
+test_user_modify (Mark.test_shoujipigai.TestShouJiPiGai) ... ok
+test_find_effective_lst (OmsSystem.test_package.Testpackage) ... ok
+test_findpackage (OmsSystem.test_package.Testpackage) ... ok
+test_get_areas (QuestionBank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_get_question_by_uuid (QuestionBank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_listSimilarQuestion (QuestionBank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_math_physics_chemistry_ques (QuestionBank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_get_insight_book_book_name (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_insight_book_by_id (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_insight_book_edition (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_insight_third_subject (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_point_by_subject (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_point_no_deleted_by_subject (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_question_type_by_subject (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... FAIL
+test_get_thematic_point (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_ques_list (QuestionBank.test_Grade_knowledge_points.Testques_list) ... ok
+test_question_type (QuestionBank.test_Grade_knowledge_points.Testques_list) ... FAIL
+test_getSpecialTopic (QuestionBank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_get_insight_book (QuestionBank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_get_unified_new (QuestionBank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_previewByTopic (QuestionBank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_preview_v2 (QuestionBank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_getOneQuestionById (QuestionBank.test_New_Written_Expression.TestNew_Written_Expression) ... ok
+test_insertQuestion (QuestionBank.test_New_Written_Expression.TestNew_Written_Expression) ... ok
+test_updateQuestion (QuestionBank.test_New_Written_Expression.TestNew_Written_Expression) ... ok
+test_insight_book (QuestionBank.test_Search_questions.Search_question) ... ok
+test_insight_book_id (QuestionBank.test_Search_questions.Search_question) ... ok
+test_math_physics_chemistry_ques (QuestionBank.test_Search_questions.Search_question) ... ok
+test_ques_tag (QuestionBank.test_Search_questions.Search_question) ... FAIL
+test_question_type_subject (QuestionBank.test_Search_questions.Search_question) ... FAIL
+test_search_for_bank (QuestionBank.test_Search_questions.Search_question) ... FAIL
+test_search_uuid_questions (QuestionBank.test_Search_questions.Search_question) ... FAIL
+test_disSimilarQuestion (QuestionBank.test_Similar_Question_Controller.TestSimilar_Question_Controller) ... ok
+test_listSimilarQuestion (QuestionBank.test_Similar_Question_Controller.TestSimilar_Question_Controller) ... ok
+test_get_all_projects (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_book (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_book_by_id (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_question_type_type_by_subject (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_question_type_type_pre_by_subject (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_third_subject (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_methods_by_point_ids (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_point_by_book_type (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_projects_by_point_ids (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_question_type_by_subject (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_visible_book (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_insertQuestion (QuestionBank.test_subject_new_math.TestSubject_new_math) ... FAIL
+test_listTopicBySubjectEn (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_submit_question (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_cardInfo (SmallProgram.test_login.TestLogin) ... ok
+test_is_new (SmallProgram.test_login.TestLogin) ... FAIL
+
+======================================================================
+FAIL: test_getCurrentUserArea (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 128, in test_getCurrentUserArea
+    self.assertTrue('河南省' in r.text, '首页接口失败')#获取province字段
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_current_user_school (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 154, in test_get_current_user_school
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回data中是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_log_exam_batch_detail (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 182, in test_get_log_exam_batch_detail
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回数据中是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_student_report_detail (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 268, in test_get_student_report_detail
+    self.assertTrue('登封市区第三初级中学' in r.text, '首页接口失败')#
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_teacher_print_detail (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 210, in test_get_teacher_print_detail
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回数据中是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_teacher_report_detail (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 238, in test_get_teacher_report_detail
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回school_name是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_question_type_by_subject (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Cleaning_Knowledge_Points.py", line 170, in test_get_question_type_by_subject
+    self.assertTrue('古诗文默写' in r.text)  # 获取一级题型为古诗文默写
+AssertionError: False is not true
+
+======================================================================
+FAIL: test_question_type (QuestionBank.test_Grade_knowledge_points.Testques_list)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Grade_knowledge_points.py", line 69, in test_question_type
+    self.assertEqual(result['code'],0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_ques_tag (QuestionBank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Search_questions.py", line 242, in test_ques_tag
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_question_type_subject (QuestionBank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Search_questions.py", line 93, in test_question_type_subject
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_search_for_bank (QuestionBank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Search_questions.py", line 205, in test_search_for_bank
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_search_uuid_questions (QuestionBank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Search_questions.py", line 166, in test_search_uuid_questions
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_insertQuestion (QuestionBank.test_subject_new_math.TestSubject_new_math)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_subject_new_math.py", line 361, in test_insertQuestion
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_is_new (SmallProgram.test_login.TestLogin)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\SmallProgram\test_login.py", line 61, in test_is_new
+    self.assertTrue('31410007232205156' in r.text,'首页接口失败')#验证返回结果中的class_id是否在文本中
+AssertionError: False is not true : 首页接口失败
+
+----------------------------------------------------------------------
+Ran 69 tests in 26.304s
+
+FAILED (failures=14)
+test_getCurrentUserArea (DataSource.test_data_platform.Data_platform) ... FAIL
+test_get_current_user_school (DataSource.test_data_platform.Data_platform) ... FAIL
+test_get_log_exam_batch_detail (DataSource.test_data_platform.Data_platform) ... FAIL
+test_get_student_report_detail (DataSource.test_data_platform.Data_platform) ... FAIL
+test_get_teacher_print_detail (DataSource.test_data_platform.Data_platform) ... FAIL
+test_get_teacher_report_detail (DataSource.test_data_platform.Data_platform) ... FAIL
+test_url_getBasic (DataSource.test_data_platform.Data_platform) ... ok
+test_url_getInfo (DataSource.test_data_platform.Data_platform) ... ok
+test_url_getTrend (DataSource.test_data_platform.Data_platform) ... ok
+test_get_arear (DataSource.test_question_data.TestQesutionData) ... ok
+test_get_search_data (DataSource.test_question_data.TestQesutionData) ... ok
+test_search_condition (DataSource.test_question_data.TestQesutionData) ... ok
+test_parent_detail (Mark.test_fencengfufei.TestFencengfufei) ... ok
+test_parent_overview (Mark.test_fencengfufei.TestFencengfufei) ... ok
+test_teacher_detail (Mark.test_fencengfufei.TestFencengfufei) ... ok
+test_teacher_overview (Mark.test_fencengfufei.TestFencengfufei) ... ok
+test_paper_result (Mark.test_scan_backup.TestScanBackup) ... ok
+test_save_per_page (Mark.test_scan_backup.TestScanBackup) ... ok
+test_user_get_list (Mark.test_shoujipigai.TestShouJiPiGai) ... ok
+test_user_modify (Mark.test_shoujipigai.TestShouJiPiGai) ... ok
+test_find_effective_lst (OmsSystem.test_package.Testpackage) ... ok
+test_findpackage (OmsSystem.test_package.Testpackage) ... ok
+test_get_areas (QuestionBank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_get_question_by_uuid (QuestionBank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_listSimilarQuestion (QuestionBank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_math_physics_chemistry_ques (QuestionBank.test_AreaCleaning.TestAreaCleaning) ... ok
+test_get_insight_book_book_name (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_insight_book_by_id (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_insight_book_edition (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_insight_third_subject (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_point_by_subject (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_point_no_deleted_by_subject (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_get_question_type_by_subject (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... FAIL
+test_get_thematic_point (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points) ... ok
+test_ques_list (QuestionBank.test_Grade_knowledge_points.Testques_list) ... ok
+test_question_type (QuestionBank.test_Grade_knowledge_points.Testques_list) ... FAIL
+test_getSpecialTopic (QuestionBank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_get_insight_book (QuestionBank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_get_unified_new (QuestionBank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_previewByTopic (QuestionBank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_preview_v2 (QuestionBank.test_Knowledge_Point_Filtering_ZH.TestKnowledge_Point_Filtering_ZH) ... ok
+test_getOneQuestionById (QuestionBank.test_New_Written_Expression.TestNew_Written_Expression) ... ok
+test_insertQuestion (QuestionBank.test_New_Written_Expression.TestNew_Written_Expression) ... ok
+test_updateQuestion (QuestionBank.test_New_Written_Expression.TestNew_Written_Expression) ... ok
+test_insight_book (QuestionBank.test_Search_questions.Search_question) ... ok
+test_insight_book_id (QuestionBank.test_Search_questions.Search_question) ... ok
+test_math_physics_chemistry_ques (QuestionBank.test_Search_questions.Search_question) ... ok
+test_ques_tag (QuestionBank.test_Search_questions.Search_question) ... FAIL
+test_question_type_subject (QuestionBank.test_Search_questions.Search_question) ... FAIL
+test_search_for_bank (QuestionBank.test_Search_questions.Search_question) ... FAIL
+test_search_uuid_questions (QuestionBank.test_Search_questions.Search_question) ... FAIL
+test_disSimilarQuestion (QuestionBank.test_Similar_Question_Controller.TestSimilar_Question_Controller) ... ok
+test_listSimilarQuestion (QuestionBank.test_Similar_Question_Controller.TestSimilar_Question_Controller) ... ok
+test_get_all_projects (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_book (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_book_by_id (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_question_type_type_by_subject (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_question_type_type_pre_by_subject (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_insight_third_subject (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_methods_by_point_ids (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_point_by_book_type (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_projects_by_point_ids (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_question_type_by_subject (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_get_visible_book (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_insertQuestion (QuestionBank.test_subject_new_math.TestSubject_new_math) ... FAIL
+test_listTopicBySubjectEn (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_submit_question (QuestionBank.test_subject_new_math.TestSubject_new_math) ... ok
+test_cardInfo (SmallProgram.test_login.TestLogin) ... ok
+test_is_new (SmallProgram.test_login.TestLogin) ... FAIL
+
+======================================================================
+FAIL: test_getCurrentUserArea (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 128, in test_getCurrentUserArea
+    self.assertTrue('河南省' in r.text, '首页接口失败')#获取province字段
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_current_user_school (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 154, in test_get_current_user_school
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回data中是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_log_exam_batch_detail (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 182, in test_get_log_exam_batch_detail
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回数据中是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_student_report_detail (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 268, in test_get_student_report_detail
+    self.assertTrue('登封市区第三初级中学' in r.text, '首页接口失败')#
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_teacher_print_detail (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 210, in test_get_teacher_print_detail
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回数据中是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_teacher_report_detail (DataSource.test_data_platform.Data_platform)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\DataSource\test_data_platform.py", line 238, in test_get_teacher_report_detail
+    self.assertTrue('菜园路初级中学' in r.text, '首页接口失败')#验证返回school_name是否包含正确的学校名称
+AssertionError: False is not true : 首页接口失败
+
+======================================================================
+FAIL: test_get_question_type_by_subject (QuestionBank.test_Cleaning_Knowledge_Points.TestCleaning_Knowledge_Points)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Cleaning_Knowledge_Points.py", line 170, in test_get_question_type_by_subject
+    self.assertTrue('古诗文默写' in r.text)  # 获取一级题型为古诗文默写
+AssertionError: False is not true
+
+======================================================================
+FAIL: test_question_type (QuestionBank.test_Grade_knowledge_points.Testques_list)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Grade_knowledge_points.py", line 69, in test_question_type
+    self.assertEqual(result['code'],0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_ques_tag (QuestionBank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Search_questions.py", line 242, in test_ques_tag
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_question_type_subject (QuestionBank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Search_questions.py", line 93, in test_question_type_subject
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_search_for_bank (QuestionBank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Search_questions.py", line 205, in test_search_for_bank
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_search_uuid_questions (QuestionBank.test_Search_questions.Search_question)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_Search_questions.py", line 166, in test_search_uuid_questions
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_insertQuestion (QuestionBank.test_subject_new_math.TestSubject_new_math)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\QuestionBank\test_subject_new_math.py", line 361, in test_insertQuestion
+    self.assertEqual(result['code'], 0)
+AssertionError: 1 != 0
+
+======================================================================
+FAIL: test_is_new (SmallProgram.test_login.TestLogin)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\ZhihuoTestAPI\test_case\SmallProgram\test_login.py", line 61, in test_is_new
+    self.assertTrue('31410007232205156' in r.text,'首页接口失败')#验证返回结果中的class_id是否在文本中
+AssertionError: False is not true : 首页接口失败
+
+----------------------------------------------------------------------
+Ran 69 tests in 28.145s
+
+FAILED (failures=14)
